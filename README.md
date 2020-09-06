@@ -9,4 +9,4 @@ Utilisez les issues github pour interagir, c'est ce qu'il y a de mieux pour le m
 Si cela vous paraît pertinant, n'hésitez pas à partager :)
 
 ## Liste articles
-- [La collaboration comme usage optimale d'Internet](collaboration_usage_optimale_internet.md)
+- [La collaboration comme usage optimal d'Internet](collaboration_usage_optimal_internet.md)

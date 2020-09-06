@@ -1,4 +1,4 @@
-# La collaboration comme usage optimale d'Internet
+# La collaboration comme usage optimal d'Internet
 
 Pour tout utilisateur d'Internet.
 
