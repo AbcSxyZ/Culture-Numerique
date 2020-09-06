@@ -1,4 +1,4 @@
-## La collaboration comme usage optimale d'Internet
+## La collaboration comme usage optimale d'Internet
 
 A destination de tout acteur du numérique.
 
@@ -36,7 +36,7 @@ Linux est devenu un élément majeur dans l'avancée technologique actuel, et es
 Ce qui s'est appliqué à Linux n'est pas un phénomène isolée, d'autres programmes libres ont des poids extrêmement prépondérant dans le milieu de l'informatique, et s'immisce dans le quotidien de tous les acteurs du domaine. Certain ont tenter de théoriser l'organisation du travail
 mise en place grâce au projet Linux, comme Eric S. Raymond dans "The Cathedral and The Bazaar", pour appliquer ses concepts à ses propre projet, et a pu expérimenter rapidement des retours en changeant sa méthode d'interaction. En montrant certaines forces, le modèle libre semble gagner la bataille idéologique dans le monde du logiciel.
 
-## Logique collaborative dans d'autres domaines
+## Logique collaborative dans d'autres domaines
 
 Le monde du logiciel à pu ces dernières décennies faire ses premières expérimentation avec Internet, percevoir des possibilités offertes par cette mise en relation. Mais Internet ne se restreint pas au logiciel, ce changement dans la communication s'installe dans tous les domaines de nos vies. Des mécanismes collaboratif similaires se créent déjà ailleurs, et produisent leurs bienfaits. Dans l'éducation, la recherche, le journalisme, la culture, le commerce, la charité...
 
