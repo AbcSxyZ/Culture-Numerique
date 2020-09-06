@@ -1,4 +1,4 @@
-# Culture-Numerique
+# Culture Numérique
 
 Articles sur le numérique, réflexion autour de ses usages. Chercher à en comprendre le
 fonctionnement pour pouvoir exploiter plus efficacement ces outils.
