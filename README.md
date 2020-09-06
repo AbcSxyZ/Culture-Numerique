@@ -6,7 +6,7 @@ fonctionnement pour pouvoir exploiter plus efficacement ces outils.
 Tout retour est la bievenue, d'éventuels commentaires, suggestions d'amélioration, idées à ajouter.  
 Utilisez les issues github pour interagir, c'est ce qu'il y a de mieux pour le moment.
 
-Si vous le souhaitez, n'hésitez pas à partager :)
+Si cela vous paraît pertinant, n'hésitez pas à partager :)
 
 ## Liste articles
 - [La collaboration comme usage optimale d'Internet](collaboration_sur_internet.md)
