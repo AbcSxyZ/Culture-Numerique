@@ -10,3 +10,6 @@ Si cela vous paraît pertinant, n'hésitez pas à partager :)
 
 ## Liste articles
 - [La collaboration comme usage optimal d'Internet](collaboration_usage_optimal_internet.md)
+
+## Articles en préparation
+- [article 2](article2_brouillon.md)
