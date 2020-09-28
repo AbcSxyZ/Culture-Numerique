@@ -1,4 +1,4 @@
-## Explication terme Internet
+## Introduction à Internet
 
 L'utilisation courante du terme Internet se confond
 souvent avec d'autres, notamment le World Wide Web, et souffre

@@ -14,4 +14,4 @@ Contact : `culture.numerique.contact@gmail.com`
 - [La collaboration comme usage optimal d'Internet](collaboration_usage_optimal_internet.md)
 
 Série sur [Internet](Internet/)
-- [Explication terme Internet](Internet/explication_terme.md)
+- [Introduction à Internet](Internet/introduction_internet.md)
