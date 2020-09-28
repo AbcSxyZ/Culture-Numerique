@@ -4,9 +4,11 @@ Articles sur le numérique, réflexion autour de ses usages. Chercher à en comp
 fonctionnement pour pouvoir exploiter plus efficacement ces outils.
 
 Tout retour est la bievenue, d'éventuels commentaires, suggestions d'amélioration, idées voir article à ajouter.  
-Utilisez les issues github pour interagir, c'est ce qu'il y a de mieux pour le moment.
 
 Si cela vous paraît pertinant, n'hésitez pas à partager :)
+
+Contact : `culture.numerique.contact@gmail.com`  
+*Envoyez un mail si vous voulez que je vous ajoute à une newsletter pour recevoir de futur articles.*
 
 ## Liste articles
 - [La collaboration comme usage optimal d'Internet](collaboration_usage_optimal_internet.md)
