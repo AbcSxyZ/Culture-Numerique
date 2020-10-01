@@ -15,3 +15,4 @@ Contact : `culture.numerique.contact@gmail.com`
 
 Série sur [Internet](Internet/)
 - [Introduction à Internet](Internet/introduction_internet.md)
+- [Sur Internet, tout est information](Internet/sur_internet_tout_est_information.md)
