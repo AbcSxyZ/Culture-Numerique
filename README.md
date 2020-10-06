@@ -11,7 +11,6 @@ Contact : `culture.numerique.contact@gmail.com`
 *Envoyez un mail si vous voulez que je vous ajoute à une newsletter pour recevoir de futur articles.*
 
 ## Liste articles
-- [La collaboration comme usage optimal d'Internet](collaboration_usage_optimal_internet.md)
 
 Série sur [Internet](Internet/)
 - [Introduction à Internet](Internet/introduction_internet.md)
