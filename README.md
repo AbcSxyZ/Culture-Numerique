@@ -7,8 +7,9 @@ Tout retour est la bievenue, d'éventuels commentaires, suggestions d'améliorat
 
 Si cela vous paraît pertinant, n'hésitez pas à partager :)
 
-Contact : `culture.numerique.contact@gmail.com`  
-*Envoyez un mail si vous voulez que je vous ajoute à une newsletter pour recevoir de futur articles.*
+**Réseaux sociaux** : suivez Culture Numérique sur [Facebook](https://www.facebook.com/Culture.Numerique.Officiel) et [Linkedin](https://www.linkedin.com/company/culture-numérique-official/) !  
+**Contact** : `culture.numerique.contact@gmail.com`  
+*Envoyez un mail pour être inscrit à une newsletter et recevoir les prochains articles.*
 
 ## Liste articles
 
