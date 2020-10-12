@@ -1,4 +1,4 @@
-# Impact actuel et futur d'Internet
+# Impact culturel et politique d'Internet
 
 > **Etymologie Information**  
 Action de former, façonner, représenter, instruire.  
