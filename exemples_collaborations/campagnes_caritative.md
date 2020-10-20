@@ -17,7 +17,7 @@ Ci-dessous les sommes collectés par Z Event (cf [Wikipedia](https://fr.wikipedi
 
 **Annuellement, les revenus doublent voir triplent.** Le nombre de personnes impliqué augmente, passant de 16 streamer en 2016 à une ciquantaine en 2019-2020. L'audience grandit de fait, et l'évènement commence à faire parler de lui au niveau national. La presse couvre le sujet, le président [les félicite](https://twitter.com/EmmanuelMacron/status/1317964944709718018). Cela devrait redorer l'image du jeux vidéo, si ce n'est pas encore prouvé qu'ils rendent violent, il est sûr que les joueurs font preuve de générosité !
 
-## Les influenceurs et la charité
+## Les influenceurs et la charité
 
 D'autres secteur que le gaming mènent des actions caritatives, tout type d'influenceur peut mener sa campagne pour les causes qu'il souhaite soutenir avec sa communauté. Des créateurs de contenu sur Youtube, Instagram, Twitter, etc. rendent ces média sociaux des vecteurs de ces changements.
 
