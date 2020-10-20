@@ -13,8 +13,11 @@ Si cela vous paraît pertinant, n'hésitez pas à partager :)
 
 ## Liste articles
 
-Série sur [Internet](Internet/)
+#### Série sur [Internet](Internet/)
 - [Introduction à Internet](Internet/introduction_internet.md)
 - [Sur Internet, tout est information](Internet/sur_internet_tout_est_information.md)
 - [La collaboration sur Internet](Internet/collaboration_sur_internet.md)
 - [Impact culturel et politique d'Internet](Internet/impact_culturel_politique_internet.md)
+
+#### Exemples de phénomènes collaboratifs
+- [Campagnes caritative sur Internet](exemples_collaboration/campagnes_caritative.md)
