@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link href="{% static 'common/sakura-dark.css' %}" rel="stylesheet">
+        <title>
+            {% block title %}
+            Culture Numérique
+            {% endblock %}
+        </title>
+    </head>
+    <body>
+        {% include "home/navbar.html" %}
+        <main>
+            {% block main %}
+            {% endblock %}
+        </main>
+    </body>
+</html>
