@@ -1,31 +1,23 @@
 from django.http import Http404
 from django.shortcuts import render
-from articles.markdown import DjangoMarkdown
+from articles.markdown import DjangoMarkdown, read_markdown
 import os
 
 APP_DIRECTORY = os.path.dirname(__file__)
-ALLOWED_PAGE = ['articles', 'about', 'contact', "introduction"]
+MARKDOWN_DIR = "markdown_templates"
+ALLOWED_PAGE = ['about', 'contact', "introduction"]
 
-def read_markdown(markdown_filename):
-    MARKDOWN_DIR = os.path.join(APP_DIRECTORY, "markdown_templates")
-    abs_markdown_filename = os.path.join(MARKDOWN_DIR, markdown_filename)
-
-    with open(abs_markdown_filename) as markdown_stream:
-        return markdown_stream.read()
+def absolute_markdown(markdown_filename):
+    markdown_filename = os.path.join(MARKDOWN_DIR, markdown_filename)
+    return os.path.join(APP_DIRECTORY, markdown_filename)
 
 def homepage(request, pagename="introduction"):
-    #Retrieve content of introduction file
-    
-    if pagename not in ALLOWED_PAGE:
-        raise Http404("Page Not found")
-
-    markdown_file = pagename + ".md"
-    markdown_content = read_markdown(markdown_file)
+    #Convert markdown file into html
+    markdown_file = absolute_markdown(pagename + ".md")
+    markdown_html = read_markdown(markdown_file)
 
     #Convert introduction markdwon into html
-    md_renderer = DjangoMarkdown()
-    output = md_renderer.convert(markdown_content)
     context = {
-            "article" : output,
+            "article" : markdown_html,
             }
     return render(request, "home/homepage.html", context=context)

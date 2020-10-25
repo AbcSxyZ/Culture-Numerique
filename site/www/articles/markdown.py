@@ -32,3 +32,13 @@ class DjangoMarkdown(markdown.Markdown):
         extensions.append(DjangoMarkdownExtension())
         kwargs['extensions'] = extensions
         super().__init__(*args, **kwargs)
+
+def read_markdown(markdown_filename):
+    """
+    Read a markdown file, and convert him into html.
+    """
+    with open(markdown_filename) as markdown_stream:
+        raw_markdown = markdown_stream.read()
+
+    md_renderer = DjangoMarkdown()
+    return md_renderer.convert(raw_markdown)

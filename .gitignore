@@ -1,2 +1,3 @@
 .env
+.*.sw[pno]
 __pycache__/

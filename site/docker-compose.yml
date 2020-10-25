@@ -6,6 +6,7 @@ services:
         build: .
         volumes:
             - ./www:/var/site
+            - ../articles:/var/articles
         environment:
             #Databases settings
             - DB_PASS
