@@ -7,19 +7,26 @@ services:
         volumes:
             - ./www:/var/site
             - ../articles:/var/articles
+            - ./apache:/etc/apache2
         environment:
             #Databases settings
             - DB_PASS
             - DB_USER
             - DB_NAME
             - DB_PORT
+
+            - PRODUCTION
+            - DOMAIN
+            - ADMIN_MAIL
+            - SERVER_PORT
+            - SECRET_KEY
             
             #Encoding
             - PYTHONIOENCODING=UTF-8
         networks:
             - django-net
         ports:
-            - "80:8000"
+            - "80:$SERVER_PORT"
             - "443:443"
 
     mysql:

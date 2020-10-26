@@ -1,3 +1,5 @@
 .env
 .*.sw[pno]
+*.log
 __pycache__/
+site/www/static/
