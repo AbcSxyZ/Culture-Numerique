@@ -1,15 +1,11 @@
-# Culture Numérique
+# Liste des articles
 
-Articles sur le numérique, réflexion autour de ses usages. Chercher à en comprendre le
-fonctionnement pour pouvoir exploiter plus efficacement ces outils.
+Vous trouverez ci-dessous tous les articles produit dans le cadre de ce projet. Ils se retrouvent sous formes de séries, pour former un ensemble qui tente d'être cohérent.
+**Chaque série possède un objectif spécifique, des explications générales sont fournis pour chacune d'entre elle.**
 
-Tout retour est la bievenue, d'éventuels commentaires, suggestions d'amélioration, idées voir article à ajouter.  
+Tout retour est la bienvenue, d'éventuels commentaires, suggestions d'amélioration, idées voir article à ajouter.  
 
-Si cela vous paraît pertinant, n'hésitez pas à partager :)
-
-**Réseaux sociaux** : suivez Culture Numérique sur [Facebook](https://www.facebook.com/Culture.Numerique.Officiel) et [Linkedin](https://www.linkedin.com/company/culture-numérique-official/) !  
-**Contact** : `culture.numerique.contact@gmail.com`  
-*Envoyez un mail pour être inscrit à une newsletter et recevoir les prochains articles.*
+Si cela vous paraît pertinant, n'hésitez pas à partager et être acteur de la connaissance :)
 
 ## Liste articles
 
@@ -19,5 +15,5 @@ Si cela vous paraît pertinant, n'hésitez pas à partager :)
 - [La collaboration sur Internet](Internet/collaboration_sur_internet.md)
 - [Impact culturel et politique d'Internet](Internet/impact_culturel_politique_internet.md)
 
-#### Exemples de phénomènes collaboratifs
+#### Exemples de [phénomènes collaboratifs](exemples_collaboration/)
 - [Campagnes caritative sur Internet](exemples_collaboration/campagnes_caritative.md)

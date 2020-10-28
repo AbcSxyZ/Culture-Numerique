@@ -1,3 +1,3 @@
 # A propos
 
-Je suis un pingouin
+Moi c'est Simon. [Work in progress]
