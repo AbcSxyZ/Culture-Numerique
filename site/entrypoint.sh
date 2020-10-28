@@ -21,9 +21,12 @@ then
     python3 manage.py runserver 0.0.0.0:$SERVER_PORT
 elif [ $PRODUCTION = true ]
 then
-    ./manage.py collectstatic --no-input
-
+    #Create ssl certificate if not already available
     [ -d "/etc/letsencrypt/live/$DOMAIN" ] ||  create_certif
+
+    #Django setup
+    ./manage.py collectstatic --no-input
+    sleep 5 && ./manage.py migrate
 
     apachectl -D FOREGROUND
 fi

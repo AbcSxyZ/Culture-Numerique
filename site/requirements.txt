@@ -1,2 +1,4 @@
 django
 markdown
+django-simple-captcha
+mysqlclient

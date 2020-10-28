@@ -1,5 +1,59 @@
 {% extends 'home/base.html' %}
+{% load static %}
+
+{% block header %}
+<link href="{% static 'articles/style.css' %}" rel="stylesheet">
+{% endblock %}
 
 {% block main %}
-{{article|safe }}
+<!-- article section -->
+<section class="article">
+    {{article_content|safe }}
+</section>
+
+<!-- Commentary section -->
+{% if allow_comment %}
+    <div id="comments-delimiter"></div>
+
+    <section class="comments">
+    <h2>Commentaires</h2>
+
+    <!-- Loop over each avaible comment of the article -->
+    {% for commentary in comments %}
+    <div class="comment">
+    
+        <h5 id="{{commentary.id}}">
+            {{commentary.username}}
+            <br>
+            <small>{{commentary.date|date:'d/m/Y H:m'}}</small>
+        </h5>
+        <p>{{commentary.comment|escape|linebreaks}}</p>
+    </div>
+    {% endfor %}
+
+    <!-- Form to post comment -->
+    <form id="post-comment" action="{% url 'articles' article_file %}"
+        method="post">
+        {% if error_message %}
+        <p id="error_form">{{error_message}}</p>
+        {% endif %}
+        {% csrf_token %}
+        <input type="hidden" value="{{article_file}}" name="article">
+
+        {% for field in form %}
+        {{ field.label_tag }}
+        {{ field }}
+        {% endfor %}
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+
+    </section>
+    <script type="text/javascript">
+        //Move to anchor given by context.
+        if ("{{anchor}}")
+            window.location="#{{ anchor }}";
+    </script>
+{% endif %}
+
 {% endblock%}

@@ -4,6 +4,7 @@ services:
     apache:
         container_name: django
         build: .
+        restart: always
         volumes:
             - ./www:/var/site
             - ../articles:/var/articles
@@ -13,13 +14,20 @@ services:
             - DB_PASS
             - DB_USER
             - DB_NAME
+            - DB_HOST
             - DB_PORT
 
             - PRODUCTION
             - DOMAIN
-            - ADMIN_MAIL
             - SERVER_PORT
             - SECRET_KEY
+
+            #Mail settings
+            - ADMIN_MAIL
+            - EMAIL_USER
+            - EMAIL_PASS
+            - EMAIL_HOST
+            - EMAIL_PORT
             
             #Encoding
             - PYTHONIOENCODING=UTF-8

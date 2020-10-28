@@ -3,6 +3,11 @@ from markdown.extensions import Extension
 from markdown.inlinepatterns import LinkInlineProcessor, LINK_RE
 from urllib.parse import urlparse
 
+
+
+
+
+import sys
 class DjangoLinkProcessor(LinkInlineProcessor):
     """
     Convert markdown internal links to django compatible
@@ -14,7 +19,12 @@ class DjangoLinkProcessor(LinkInlineProcessor):
 
         #Perform action on internal links
         if not url_split.netloc and not url_split.scheme:
-            pass
+            if url_split.path.endswith(".md"):
+                #Remove md extension from url
+                new_path = url_split.path[:-3]
+                url_split = url_split._replace(path=new_path)
+                href = url_split.geturl()
+
         return (href, *link_data)
 
 class DjangoMarkdownExtension(markdown.Extension):

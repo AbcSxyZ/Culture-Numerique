@@ -1,0 +1,51 @@
+/*
+** Comments section
+*/
+
+div#comments-delimiter {
+    width : 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 2px solid #c9c9c9;
+}
+
+/*
+** Comments "card"
+*/
+
+div.comment > h5 {
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+div.comment > h5 > small {
+    font-size:12.5px;
+}
+
+div.comment > p {
+    margin-bottom:15px;
+}
+
+/*
+* Form for comment
+*/
+
+p#error_form{
+    color:#e61c1c;
+    margin-bottom:0px;
+    font-style:italic;
+    font-size:0.8em;
+}
+
+/*
+* Format captcha form fields
+*/
+
+input#id_captcha_1 {
+    vertical-align:bottom;
+    margin-left:10px;
+}
+
+img.captcha {
+    margin:0px;
+}
