@@ -1,0 +1,49 @@
+# Fail2ban configuration
+
+[DEFAULT]
+findtime = 3600
+bantime = 86400
+maxretry = 5
+
+[ssh]
+
+enabled = true
+port    = ssh
+filter  = sshd
+logpath  = /var/log/auth.log
+
+# detect password authentication failures
+[apache]
+enabled  = true
+filter   = apache-auth
+action   = iptables-multiport[name=auth, port="http,https"]
+logpath  = /var/log/culture-numerique/apache2/error.log
+bantime  = 3600
+maxretry = 3
+
+# detect spammer robots crawling email addresses
+[apache-badbots]
+enabled  = true
+filter   = apache-badbots
+action   = iptables-multiport[name=badbots, port="http,https"]
+logpath  = /var/log/culture-numerique/apache2/error.log
+bantime  = 3600
+maxretry = 1
+
+# detect potential search for exploits
+[apache-noscript]
+enabled  = true
+filter   = apache-noscript
+action   = iptables-multiport[name=noscript, port="http,https"]
+logpath  = /var/log/culture-numerique/apache2/error.log
+bantime  = 3600
+maxretry = 6
+
+# detect Apache overflow attempts
+[apache-overflows]
+enabled  = true
+filter   = apache-overflows
+action   = iptables-multiport[name=overflows, port="http,https"]
+logpath  = /var/log/culture-numerique/apache2/error.log
+bantime  = 3600
+maxretry = 2
