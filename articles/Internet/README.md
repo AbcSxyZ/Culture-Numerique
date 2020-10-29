@@ -2,7 +2,7 @@
 
 Nous utilisons quotidiennement Internet, ça place grandit dans nos vies, mais celui-ci est souvent incompris. Une magie qu'il est nécessaire de démystifier pour comprendre son fonctionnement.
 
-Déjà les plus jeunes prenne cet outil comme une forme d'acquis, qui fait partie d'une certaine normalité, pourtant il est nécessaire de comprendre que c'est tout nouveau, et que nous connaissons bien peu du potentiel d'Internet !
+Déjà les plus jeunes prenne cet outil comme une forme d'acquis, qui fait partie d'une certaine normalité, pourtant il est nécessaire de le voir comme nouveau, et que nous connaissons bien peu du potentiel d'Internet !
 
 Nous ignorons encore beaucoup, mais nous possédons tout de même une certaine expérience vu son intense utilisation, et les singularités de cet outil ont déjà produit un certains nombres
 de phénomènes intéressant à observer.
