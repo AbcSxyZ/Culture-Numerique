@@ -11,6 +11,7 @@ Les articles de cette série sont là pour faire focus sur Internet.
 
 #### Série sur [Internet](Internet/)
 - [Introduction à Internet](introduction_internet.md)
+- [Histoire d'Internet](Internet/histoire_internet.md)
 - [Sur Internet, tout est information](sur_internet_tout_est_information.md)
 - [La collaboration sur Internet](collaboration_sur_internet.md)
 - [Impact culturel et politique d'Internet](impact_culturel_politique_internet.md)
