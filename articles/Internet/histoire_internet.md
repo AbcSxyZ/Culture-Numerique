@@ -27,4 +27,11 @@ Dès 1980, la France développe le [minitel](https://fr.wikipedia.org/wiki/Minit
 > Src: [Banque mondiale](https://donnees.banquemondiale.org/indicateur/IT.NET.USER.ZS?end=2019&locations=FR&start=1990&view=chart&year=2016)
 
 En 1995, 1,6% de la population française surf sur le net, pour atteindre plus de 83% dès 2014. En 2020, les chiffres ont légèrement progressé, en fonction de la méthodologie et des sources le nombre d'utilisateurs est estimé entre 85 et 90% de la population française. **Une seule génération (25 ans) a suffi pour déployer Internet en France.**
-Probablement une des innovations qui s'est diffusé le plus rapidement dans l'Histoire, plus vite que la voiture, l'eau courante, l'accès à l'électricité...
+Probablement une des innovations qui s'est diffusé le plus rapidement dans l'Histoire, plus vite que la voiture, l'eau courante, l'accès à l'éléctricité...
+
+## L'impact sociétale
+
+Avec Internet, et le numérique plus généralement, notre société connaît une véritable [révolution de l'information](sur_internet_tout_est_information.md).
+Toutes les activités humaines où des informations sont échangés se transforment, changeant concrètement notre façon de vivre : **l'information influence l'action**. La façon d'apprendre change car la connaissance est accessible différemment, notre façon de communiquer avec les autres, de se déplacer, de se divertir, d'organiser une activité, de débattre... Dès qu'il y a information, le numérique peut s'immiscer et changer notre façon d'agir.
+
+La société fait fasse à une modification majeure de son mode de vie, le tout extrêmement rapidement. La population peut se sentir dépassé et ne pas comprendre Internet, se retrouvent limités dans l'utilisation, ne sont pas capables de communiquer avec leur ordinateur pour l'exploiter pleinement, ne sont pas capable d'imaginer des usages possible, sont manipulés à cause de leur ignorance, etc. La société, à tous les niveaux, n'a pas encore compris les tenants et les aboutissant du réseau, et n'a pas vraiment d'éducation et de culture sur le sujet. *Comme si vous inventiez l'écriture, sans expliquer à personne comment cela fonctionne mais que tout le monde se met à copier son voisin car trouve cela utile ou ludique.* Il faudra du temps et de la volonté pour comprendre le pouvoir et le danger des mots tout comme il en faudra pour former des lettrés.
