@@ -15,6 +15,7 @@ import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+ARTICLES_DIR = Path("/var/articles")
 
 
 # Quick-start development settings - unsuitable for production
@@ -131,6 +132,7 @@ STATIC_URL = '/static/'
 STATIC_ROOT = "static"
 STATICFILES_DIRS = [
         BASE_DIR / "common_static",
+        ARTICLES_DIR / "ressources",
         ]
 
 # Custom settings
