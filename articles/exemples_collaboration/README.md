@@ -8,5 +8,5 @@ Cela va bien plus loin, à l'édition de logiciel à la conceptualisation d'engi
 
 Cette série cherche à mettre en lumière ces logiques collaboratives dans différents espaces en ligne.
 
-#### Exemples de [phénomènes collaboratifs](exemples_collaboration/)
-- [Campagnes caritative sur Internet](exemples_collaboration/campagnes_caritative.md)
+#### Exemples de phénomènes collaboratifs
+- [Campagnes caritative sur Internet](campagnes_caritative.md)
