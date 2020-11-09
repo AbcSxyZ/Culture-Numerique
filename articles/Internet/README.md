@@ -14,8 +14,8 @@ voir l'utilisation qui peut en être fait.
 Après qu'Internet soit rendu plus concret, l'intérêt est de se pencher
 sur les [effets majeurs](impact_culturel_politique_internet.md) qu'il
 produit dans un certain nombre de domaines, changeant des logiques antérieures.
-En parallèle, comme le net est un espace participatif, de nouvelles formes
-de relations et d'organisation se créent qu'il est intéressant de pouvoir
+En parallèle, comme le net est un espace participatif, de [nouvelles formes
+de relations et d'organisation](collaboration_sur_internet.md) se créent qu'il est intéressant de pouvoir
 observer pour en favoriser l'émergence. [Toute une série](/articles/exemples_collaboration)
 est d'ailleurs consacré aux exemples de collaboration qu'il rend possible.
 
