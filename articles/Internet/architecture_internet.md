@@ -7,7 +7,7 @@ d'un réel mésusage. **Internet est une infrastructure physique**, un **réseau
 Un réseau se compose d'ordinateurs connectés les uns avec
 les autres en filaire (fibre optique, adsl, ethernet, etc.) ou sans fil (wifi, 3/4/5G par antennes et satellites, etc.). Chaque réseau est géré par un [système autonome](https://fr.wikipedia.org/wiki/Autonomous_System) qui peut se relier à d'autres pour faire communiquer leurs réseaux respectifs, créant *un internetwork*, simplifié en *un internet*.
 
-[![Schéma structure Internet](/static/internet_AS.png)](/static/internet_AS.png)
+[![Schéma structure Internet](/static/Internet_AS.png)](/static/Internet_AS.png)
 
 Un système autonome peut être géré par tout type d'organisation : une université, une entreprise, une association... les fournisseurs d'accès à Internet (Orange, Free, etc.) maintiennent leur propre système, et se relient ensuite à d'autres.  
 Au niveau mondial et en quelques décennies une galaxie de systèmes autonomes liés les uns aux autres se sont créés, formant un réseau unique : *Internet*.
