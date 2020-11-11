@@ -10,7 +10,7 @@ Une information en ligne devient un [bien immatériel][wiki-bien_immateriel], av
 
 > Un bien immatériel peut devenir payant pour diverses raisons, mais ce qui se monnaie est un droit d'accès et non le coût de sa reproduction.
 
-Internet n'est donc qu'un moyen d'échange d'informations, où tout le monde peut en devenir récepteur ou producteur. [Comme Internet nous met en relations](introduction_internet.md), nous expérimentons une modification de notre mode de communication.  
+Internet n'est donc qu'un moyen d'échange d'informations, où tout le monde peut en devenir récepteur ou producteur. [Comme Internet nous met en relations](architecture_internet.md), nous expérimentons une modification de notre mode de communication.  
 **L'information conditionne l'action humaine**, et la mutation d'un système d'information altère tout autant l'activité d'une société.
 
 [wiki-tic]:https://fr.wikipedia.org/wiki/Technologies_de_l%27information_et_de_la_communication

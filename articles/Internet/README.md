@@ -5,7 +5,7 @@ chaque jour dans nos activités, aussi bien dans la sphère privée que professi
 Malgré son omniprésence, cet outil reste souvent incompris.
 
 L'objectif de cette série est d'expliquer les **principes de bases d'Internet**.
-Comprendre [son architecture](introduction_internet.md), [son histoire](histoire_internet.md) et
+Comprendre [son architecture](architecture_internet.md), [son histoire](histoire_internet.md) et
 son [rôle pour l'information](sur_internet_tout_est_information.md).
 Connaître ce qu'est Internet pour mieux l'appréhender et le contextualiser.
 Savoir à quel besoin il répond pour décrypter son expansion et chercher à
@@ -22,7 +22,7 @@ est d'ailleurs consacré aux exemples de collaboration qu'il rend possible.
 En espérant que cet éclairage sur Internet permette de le saisir davantage et en comprendre les usages possibles.
 
 #### Série sur Internet
-- [Introduction à Internet](introduction_internet.md)
+- [Introduction à Internet](architecture_internet.md)
 - [Histoire d'Internet](histoire_internet.md)
 - [Sur Internet, tout est information](sur_internet_tout_est_information.md)
 - [La collaboration sur Internet](collaboration_sur_internet.md)
