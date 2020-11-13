@@ -20,7 +20,8 @@ Dans ce sombre décor, le numérique est un outil tout nouveau d'une puissance e
 
 Le savoir, c'est le pouvoir ! Pour maîtriser le numérique, il est nécessaire d'apprendre, de comprendre, de questionner ses usages. L'objectif de Culture Numérique est de participer à cette éducation populaire autour de ces outils. À travers cette connaissance, il sera ensuite possible d'imaginer le numérique de demain, l'ambition est de participer à la construction de ce nouveau monde. **Comprendre le numérique d'aujourd'hui pour fabriquer celui de demain.**
 
-Culture numérique comprend 2 axes, en premier prendre conscience du caractère historique du numérique autant que notre manque d'expérience sur ce sujet, tout en analysant ce qui est déjà permis avec un focus sur les nouvelles **formes de collaboration** et cette mise en place **d'une économie de l'immatériel**. Dans un second temps, l'intérêt est de découvrir des concepts/mécanismes rendu possible grâce au numérique pour à terme en faire des applications concrète dans divers projets, dont celui-ci.
+Culture numérique comprend 2 axes, en premier
+développer une culture générale sur les outils du milieu numérique, en s'intéressant également à leur dimension historique tout en analysant ce qui est déjà permis avec un focus sur les nouvelles **formes de collaboration** et cette mise en place **d'une économie de l'immatériel**. Dans un second temps, l'intérêt est de découvrir des concepts/mécanismes rendu possible grâce au numérique pour à terme en faire des applications concrète dans divers projets, dont celui-ci.
 
 ## Quoi trouver sur ce site ?
 
