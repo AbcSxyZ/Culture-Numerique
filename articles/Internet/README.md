@@ -22,7 +22,7 @@ est d'ailleurs consacré aux exemples de collaboration qu'il rend possible.
 En espérant que cet éclairage sur Internet permette de le saisir davantage et en comprendre les usages possibles.
 
 #### Série sur Internet
-- [Introduction à Internet](architecture_internet.md)
+- [Architecture d'Internet](architecture_internet.md)
 - [Histoire d'Internet](histoire_internet.md)
 - [Sur Internet, tout est information](sur_internet_tout_est_information.md)
 - [La collaboration sur Internet](collaboration_sur_internet.md)
