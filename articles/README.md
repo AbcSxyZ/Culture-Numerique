@@ -10,7 +10,7 @@ Si cela vous paraît pertinant, n'hésitez pas à partager et être acteur de la
 ## Liste articles
 
 #### Série sur [Internet](Internet/)
-- [Introduction à Internet](Internet/architecture_internet.md)
+- [Architecture d'Internet](Internet/architecture_internet.md)
 - [Histoire d'Internet](Internet/histoire_internet.md)
 - [Sur Internet, tout est information](Internet/sur_internet_tout_est_information.md)
 - [La collaboration sur Internet](Internet/collaboration_sur_internet.md)
