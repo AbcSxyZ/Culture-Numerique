@@ -29,7 +29,7 @@ Dès 1980, la France développe le [minitel](https://fr.wikipedia.org/wiki/Minit
 En 1995, 1,6% de la population française surf sur le net, pour atteindre plus de 83% dès 2014. En 2020, les chiffres ont légèrement progressé, en fonction de la méthodologie et des sources le nombre d'utilisateurs est estimé entre 85 et 90% de la population française. **Une seule génération (25 ans) a suffi pour déployer Internet en France.**
 Probablement une des innovations qui s'est diffusé le plus rapidement dans l'Histoire, plus vite que la voiture, l'eau courante, l'accès à l'éléctricité...
 
-## L'impact sociétale
+## Évolution future
 
 Avec Internet, et le numérique plus généralement, notre société connaît une véritable [révolution de l'information](sur_internet_tout_est_information.md).
 Toutes les activités humaines où des informations sont échangés se transforment, changeant concrètement notre façon de vivre : **l'information influence l'action**. La façon d'apprendre change car la connaissance est accessible différemment, notre façon de communiquer avec les autres, de se déplacer, de se divertir, d'organiser une activité, de débattre... Dès qu'il y a information, le numérique peut s'immiscer et changer notre façon d'agir.
