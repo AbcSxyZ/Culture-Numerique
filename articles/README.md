@@ -21,6 +21,7 @@ Si cela vous paraît pertinant, n'hésitez pas à partager et être acteur de la
 - [Cadre numérique](modele_ouvert/cadre_numerique.md)
 - [Cadre économique](modele_ouvert/cadre_economique.md)
 - [La documentation](modele_ouvert/documentation.md)
+- [Bibliographie](modele_ouvert/bibliographie.md)
 
 #### Exemples de [phénomènes collaboratifs](exemples_collaboration/)
 - [Campagnes caritative sur Internet](exemples_collaboration/campagnes_caritative.md)
