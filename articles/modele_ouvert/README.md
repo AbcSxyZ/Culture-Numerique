@@ -10,7 +10,7 @@ Dans le principe pour une activité équivalente, celle suivant un modèle ouver
 
 Le sujet du projet ouvert est vaste, complexe, rempli d'inconnu. Expérimenté en premier lieu dans le monde du logiciel, celui-ci se déplace et s'applique à des domaines de plus en plus vastes. De nombreuses disciplines peuvent s'inviter pour améliorer le modèle, les sciences humaines et sociales, les sciences politiques, le management, l'économie, l'informatique... Ce modèle mérite d'être compris et utilisé plus largement, c'est ici le but.
 
-Ces écrits, cette ébauche cherche à permettre la mise en place d'un modèle ouvert pour un projet quelconque. Retour ou questions appréciés.
+Ces écrits, cette ébauche cherche à permettre la mise en place d'un modèle ouvert pour un projet quelconque. Retour ou questions appréciés. Viens échanger sur [Discord](https://discord.gg/xzjYYkjA3x) !
 
 > "La route est longue, mais le voie est libre."  
 Framasoft
