@@ -13,7 +13,7 @@ Différents types d'information vont être intéressant à structurer. Certaines
 
 #### Quel outils utiliser ?
 
-Les outils utilisé pour organiser un projet suivant un modèle ouvert vont varier en fonction de l'avancée du projet, des moyens technique et financier dont il dispose, cela va grandement varié d'un projet à l'autre et une diversité d'outils va exister en fonction de la situation. Il sera possible d'utiliser des outils déjà existant voir de créer de ses propres outils pour répondre au mieux à ses besoins. **Pour rappel, les outils mis en place doivent se compléter mutuellement et vont répondre à des besoins spécifiques.**
+Les outils utilisés pour organiser un projet suivant un modèle ouvert vont varier en fonction de l'avancée du projet, des moyens technique et financier dont il dispose, cela va grandement varié d'un projet à l'autre et une diversité d'outils va exister en fonction de la situation. Il sera possible d'utiliser des outils déjà existant voir de créer de ses propres outils pour répondre au mieux à ses besoins. **Pour rappel, les outils mis en place doivent se compléter mutuellement et vont répondre à des besoins spécifiques.**
 
 Voici une liste d'outils d'exemples, inspiré en partie du monde du logiciel.
 
