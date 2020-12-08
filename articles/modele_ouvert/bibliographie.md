@@ -1,6 +1,6 @@
 ## Bibliographie
 
-Les livres sous licence libre sont directemment donné en lien.
+Les livres sous licence libre sont directemment donnés en lien.
 Si besoin pour les autres : [libgen.lc](http://libgen.lc/).
 
 #### Livres
