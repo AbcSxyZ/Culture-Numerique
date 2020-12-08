@@ -2,7 +2,7 @@
 
 #### Objectifs de la communauté
 
-Un projet suivant un modèle ouvert doit répondre a un besoin qui va être partagé par une communauté. Même si les motivations seront différentes, chaque individu va pouvoir en tirer des bénéfices et trouver son propre usage du projet. En travaillant de façon collaborative, le projet va ainsi pouvoir profiter de propriétés propre au groupe : intelligence collective, gestion de la complexité, multiplication des compétences, méthode de Delphes, etc. ce sont les propriétés du groupe qui permettent de changer l'ampleur d'un projet, et qui vont motiver l'individu à travailler avec le collectif.
+Un projet suivant un modèle ouvert doit répondre a un besoin qui va être partagé par une communauté. Même si les motivations seront différentes, chaque individu va pouvoir en tirer des bénéfices et trouver son propre usage du projet. Grâce à ce besoin partagé, les individus vont être enclin à collaborer. Avec ce travail collaboratif, le projet va ainsi pouvoir profiter de propriétés propre au groupe : intelligence collective, gestion de la complexité, multiplication des compétences, méthode de Delphes, etc. ce sont les propriétés du groupe qui permettent de changer l'ampleur d'un projet, et qui vont motiver l'individu à travailler avec le collectif.
 
 Une communauté demande tout un travail de construction et de structuration. Une grande variété de profil différent peut se retrouver autour d'un même projet, les individus doivent se voir comme des pairs qui travaille ensemble. Les frontières entre les catégories d'individu sont poreuses, il est nécessaire de favoriser ce changement de rôle.
 
@@ -22,8 +22,8 @@ Continuellement des individus vont arriver et partir, l'intérêt est d'être ca
 
 Le travail se divisera entre les participants, mais il n'est pas vraiment possible d'imposer le travail. Il est nécessaire d'avoir un management non coercitif, non contraignant des équipes. Proposer, mais ne pas contraindre.
 
-> J'ai commencé à apprécier la différence entre agir sur le principe du commandement et de la discipline et agir sur le principe de la compréhension commune.  
-Eric S. Raymond - The cathedral and the Bazaar.
+> « J'ai commencé à apprécier la différence entre agir sur le principe du commandement et de la discipline et agir sur le principe de la compréhension commune. »  
+*Eric S. Raymond - The cathedral and the Bazaar*
 
 La recherche de solution, les prises de décisions vont demander de trancher sur des questions. Il faut tendre vers des choix consensuelles. Le temps de l'échange doit être fondamentale, car il permet de mieux réfléchir à un problème, de chercher différentes solutions. Débattre de façon constructif en prenant le temps si nécessaire possède de réel bénéfices.
 
