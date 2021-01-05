@@ -18,6 +18,7 @@ function create_certif()
 
 if [ $PRODUCTION = false ]
 then
+    sleep 10 && ./manage.py migrate
     python3 manage.py runserver 0.0.0.0:$SERVER_PORT
 elif [ $PRODUCTION = true ]
 then
