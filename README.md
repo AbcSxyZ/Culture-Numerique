@@ -20,8 +20,8 @@ Run `docker-compose up`. Your server is available at `DOMAIN` on port 80 or 443.
 
 `DB_ROOT_PASS`, `DB_PASS`, `DB_USER`, `DB_NAME`, `DB_HOST`, `DB_PORT` : database settings.
 
-`PRODUCTION` : Set true if server is used in production, false for developpement.
-`SERVER_PORT` : port used by http server, 443 for https is open by default.
+`PRODUCTION` : Set true if server is used in production, false for developpement.  
+`SERVER_PORT` : port used by http server, 443 for https is open by default.  
 `DOMAIN` : Domain name of the website.
 
 `ADMIN_MAIL` : Mail of the administrator of django website.
