@@ -4,5 +4,5 @@ import articles
 
 urlpatterns = [
         path("", views.homepage),
-        re_path("(?P<pagename>(about|contact))/", views.homepage, name="homepage"),
+        re_path("(?P<pagename>(about|contribute))/", views.homepage, name="homepage"),
         ]
