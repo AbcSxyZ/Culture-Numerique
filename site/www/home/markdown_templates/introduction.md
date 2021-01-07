@@ -13,7 +13,7 @@ C'est l'objectif de ce projet, construire un environnement d'apprentissage pour 
 
 ## Une Université Ouverte
 
-Cette université va chercher à suivre un modèle ouvert. L'open source, l'organisation ouverte, l'innovation ouverte
+Cette université va chercher à suivre un [modèle ouvert](/articles/modele_ouvert/). L'open source, l'organisation ouverte, l'innovation ouverte
 seront au cœur du projet, avec un numérique qui va chercher à construire la collaboration.
 
 Une production collaborative des logiciels, une production collaborative de la connaissance, une
