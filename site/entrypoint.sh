@@ -8,7 +8,7 @@ function create_certif()
     service apache2 reload
 
     #Get ssl certificate
-    certbot  certonly --staging --non-interactive --apache -d "$DOMAIN" -m "$ADMIN_MAIL" --agree-tos
+    certbot  certonly --non-interactive --apache -d "$DOMAIN" -m "$ADMIN_MAIL" --agree-tos
 
     #Enable website config
     a2dissite certbot
