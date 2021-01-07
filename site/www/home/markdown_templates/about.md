@@ -1,7 +1,7 @@
 ## Qui est derrière le projet ?
 
 Ce projet d'université au numérique est très récent, pour le moment porté par [Simon
-Rossi](https://www.linkedin.com/in/simon-rossi-791692118/detail/recent-activity/).  
+Rossi](https://www.linkedin.com/in/simon-rossi-791692118/).  
 Le projet n'a pas encore porté par une communauté, je travaille à sa mise
 en œuvre.
 
