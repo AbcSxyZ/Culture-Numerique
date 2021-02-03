@@ -22,7 +22,7 @@ Actuellement, des acteurs tiers produisent le vaccin Moderna sur leurs propres c
 
 > Libre d'accès ne veut pas dire facilement utilisable. Tout un transfert de connaissance et de technologie peut être nécessaire pour commencer à exploiter une solution.
 
-#### 2/ Amélioration continue de la qualité  
+#### 2/ Amélioration continue de la qualité  
 
 Les vaccins actuels sont en train d'être éprouvés. Avec un usage plus important grâce à une production facilité, le retour d'expérience sera lui-même plus important, permettant de détecter les effets indésirables. Plus l'usage est important, plus la remontée d'erreur l'est également. Des correctifs peuvent alors être apportés pour limiter ces effets secondaires et renforcer la qualité du vaccin. Bien que cela soulève un certain nombre de questions dans ce cadre, plus une solution est testée, plus elle tend à se fiabiliser.
 
@@ -30,7 +30,7 @@ Avoir un vaccin sous licence libre peut permettre d'accélérer les avancées pr
 
 En dehors de la résolution de problèmes, des avancées peuvent également provenir de ces acteurs extérieurs. Une évaluation entre pairs plus importante peut avoir lieu, avec différents scientifiques qui vont consulter les brevets et proposer d'éventuels axes d'améliorations et limites. En parallèle, des expérimentations peuvent avoir lieu pour tenter de faire évoluer différents procédés, que ce soit sur les composants, la méthode de production, de stockage, etc. Les sources d'innovations seront bien plus larges grâce à un brevet ouvert, libre.
 
-#### 3/ Réduction des prix
+#### 3/ Réduction des prix
 
 Produire un vaccin sous brevet libre permet finalement la création de générique et d'empêcher le monopole d'une entreprise, ce qui devrait mécaniquement apporté une réduction des coûts. Le brevet à l'origine permet d'offrir un monopole temporaire pour sur une invention, mais les monopoles posent un certain nombre de problèmes d'ordre économique et sont contraire à une hypothétique concurrence libre et non faussée.
 
@@ -44,7 +44,7 @@ Dans le [cas de Moderna](https://www.bbc.com/news/business-55170756), la recherc
 Un changement de logique à adopter est de ne pas se rémunérer sur capture de la connaissance, avec un brevet, car elle est aujourd'hui facilement partageable avec le numérique. L'intérêt est de créer de la valeur grâce aux services et aux bien produits autour. Dans le cas de Moderna, tout un transfert d'expertise doit se réaliser pour permettre la production par des tiers, avec du service, de l'assistance qui peut être rémunéré.
 Les structures qui vont vivre grâce à ce brevet en produisant à leurs tours un vaccin devraient financer le laboratoire pour lui permettre de vivre, redistribuant ainsi une part de la valeur crée.
 
-### Évolution future
+### Évolution future
 
 La question du brevet sur les différents vaccins devrait être croissante, avec un jeu d'équilibre entre le besoin de vacciné le plus grand nombre et la volonté de rentabilité des divers industries. Avoir un brevet libre pourrait permettre d'aboutir à un vaccin de meilleur qualité, en plus grande quantité et à moindre coût. En l'état, les bénéfices des labos risque de baisser, mais pourraient aussi s'avérer supérieur en fonction de la dynamique mise en place.
 
