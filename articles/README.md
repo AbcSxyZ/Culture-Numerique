@@ -25,3 +25,4 @@ Si cela vous paraît pertinant, n'hésitez pas à partager et être acteur de la
 
 #### Exemples de [phénomènes collaboratifs](exemples_collaboration/)
 - [Campagnes caritative sur Internet](exemples_collaboration/campagnes_caritative.md)
+- [Impacts potentiels d'un vaccin covid-19 sous licence libre](exemples_collaboration/impact_vaccin_licence_libre.md)

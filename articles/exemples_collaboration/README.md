@@ -10,3 +10,4 @@ Cette série cherche à mettre en lumière ces logiques collaboratives dans diff
 
 #### Exemples de phénomènes collaboratifs
 - [Campagnes caritative sur Internet](campagnes_caritative.md)
+- [Impacts potentiels d'un vaccin covid-19 sous licence libre](impact_vaccin_licence_libre.md)
