@@ -16,7 +16,7 @@ Si cela vous paraît pertinant, n'hésitez pas à partager et être acteur de la
 - [La collaboration sur Internet](Internet/collaboration_sur_internet.md)
 - [Impact culturel et politique d'Internet](Internet/impact_culturel_politique_internet.md)
 
-#### Le [modèle ouvert](modele_ouvert/)
+#### Le [modèle ouvert](modele_ouvert/)
 - [Cadre communautaire](modele_ouvert/cadre_communautaire.md)
 - [Cadre numérique](modele_ouvert/cadre_numerique.md)
 - [Cadre économique](modele_ouvert/cadre_economique.md)
