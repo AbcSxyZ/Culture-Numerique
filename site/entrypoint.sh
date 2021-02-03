@@ -8,7 +8,7 @@ function create_certif()
     service apache2 reload
 
     #Get ssl certificate
-    certbot  certonly --staging --non-interactive --apache -d "$DOMAIN" -m "$ADMIN_MAIL" --agree-tos
+    certbot  certonly --non-interactive --apache -d "$DOMAIN" -m "$ADMIN_MAIL" --agree-tos
 
     #Enable website config
     a2dissite certbot
@@ -18,6 +18,7 @@ function create_certif()
 
 if [ $PRODUCTION = false ]
 then
+    sleep 10 && ./manage.py migrate
     python3 manage.py runserver 0.0.0.0:$SERVER_PORT
 elif [ $PRODUCTION = true ]
 then

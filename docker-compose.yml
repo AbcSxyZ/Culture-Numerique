@@ -3,12 +3,12 @@ version: '3'
 services:
     apache:
         container_name: django
-        build: .
+        build: ./site
         restart: always
         volumes:
-            - ./www:/var/site
-            - ../articles:/var/articles
-            - ./apache:/etc/apache2
+            - ./site/www:/var/site
+            - ./articles:/var/articles
+            - ./site/apache:/etc/apache2
             - /var/log/culture-numerique/apache2:/var/log/apache2
         environment:
             #Databases settings

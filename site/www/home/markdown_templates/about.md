@@ -1,11 +1,19 @@
-# À propos
+## Qui est derrière le projet ?
 
-Culture numérique est porté (pour le moment ?) par une seule personne. Je m'appelle Simon, 22 ans, depuis plusieurs années je navigue entre différentes structures scolaires, un apprentissage autodidacte, et cette volonté de monter des projets à impact.
+Ce projet d'université au numérique est très récent, pour le moment porté par [Simon
+Rossi](https://www.linkedin.com/in/simon-rossi-791692118/).  
+Le projet n'a pas encore porté par une communauté, je travaille à sa mise
+en œuvre.
 
-Mon approche est davantage pluridisciplinaire, l'éducation, l'économie, la politique, le numérique, la programmation, l'écologie, l'entreprenariat sont des domaines qui m'intéressent et influence ma vision actuelle ainsi que mon action (ou inaction) au quotidien.
+## Quid des autres solutions d'éducation au numérique ?
 
-Les projets changent, évoluent, se construisent, aujourd'hui c'est Culture Numérique car mon intuition est que nous n'avons encore rien vu du potentiel positif du numérique sur nos vies ! D'autant plus dans un monde où nos vies sont voués à changer profondément, de gré ou de force.
+Aujourd'hui, de multiples solutions Edtech existent, les universités ont des plateformes.  
+Rien qui soit spécifique au numérique, avec une approche pluri-disciplinaire qui dépasse la simple technique, avec un
+logiciel open source, un apprentissage et une création de connaissance collaborative.
 
-En espérant nous aider à avancer sur la question numérique.
+L'idée d'une université du numérique existe ailleurs, comme chez
+[Framasoft](https://framacolibri.org/t/upload-luniversite-populaire-du-libre-ouverte-accessible-et-decentralisee/10314)
+ou à [l'INRIA](https://www.inria.fr/fr/transformation-numerique-education-recommandations-inria), le concept germe en France, certainement à l'étranger également.
 
-Simon
+L'idée existe, ici et ailleurs, en fonction des acteurs la vision sera profondément différente. La logique ouverte
+reste bien souvent sous-exploité car méconnu.
