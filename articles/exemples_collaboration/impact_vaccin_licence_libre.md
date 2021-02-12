@@ -8,7 +8,7 @@ Quels sont alors les avantages d'un brevet libre et comment financer ceux qui pr
 
 ### Deux techniques de vaccination
 
-Avant de d'aller plus loin car cela a des conséquences, il est nécessaire de comprendre que le vaccin crée par Moderna et Pfizer-BioNtech utilisent une méthode de vaccination nouvelle. La méthode habituelle consiste à "injecter une forme atténuée ou inactivée d’un agent infectieux, ou certains de ses composants" [cf [Futura santé](https://www.futura-sciences.com/sante/actualites/coronavirus-vaccins-arn-messager-sont-risques-notre-genome-84966/)]. La nouveauté avec certains vaccins contre le covid-19 est l'injection d'un ARN messager et non plus de l'agent infectieux, l'ARN correspondant à des informations génétiques au même titre que l'ADN (voir [plus](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/science/dna-versus-rna-608191/)).
+Avant d'aller plus loin car cela a des conséquences, il est nécessaire de comprendre que le vaccin crée par Moderna et Pfizer-BioNtech utilisent une méthode de vaccination nouvelle. La méthode habituelle consiste à "injecter une forme atténuée ou inactivée d’un agent infectieux, ou certains de ses composants" [cf [Futura santé](https://www.futura-sciences.com/sante/actualites/coronavirus-vaccins-arn-messager-sont-risques-notre-genome-84966/)]. La nouveauté avec certains vaccins contre le covid-19 est l'injection d'un ARN messager et non plus de l'agent infectieux, l'ARN correspondant à des informations génétiques au même titre que l'ADN (voir [plus](https://www.greelane.com/fr/science-technologie-math%C3%A9matiques/science/dna-versus-rna-608191/)).
 
 ### Avantages d'un vaccin à la propriété intellectuelle libre
 
