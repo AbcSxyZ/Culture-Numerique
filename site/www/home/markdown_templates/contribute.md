@@ -10,7 +10,6 @@ Viens simplement discuter sur les médias sociaux ou contactez-nous en privé !
 Faire des retours, posez des questions, suivre l'actualité du projet...
 
 **Réseaux sociaux** : venez échanger sur [Facebook](https://www.facebook.com/Culture.Numerique.Officiel) et [Linkedin](https://www.linkedin.com/company/culture-numérique-official/) !  
-**Chat** : Viens échanger sur [Discord](https://discord.gg/xzjYYkjA3x)
 
 **Mail** : culture.numerique.contact@gmail.com  
 
