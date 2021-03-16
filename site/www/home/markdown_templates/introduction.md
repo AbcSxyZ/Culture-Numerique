@@ -19,5 +19,5 @@ seront au cœur du projet, avec un numérique qui va chercher à construire la c
 L'enjeu est de chercher à maîtriser et démocratiser ces modèles ouverts.
 
 Le numérique ouvre la porte à des formes de collaborations nouvelles, d'une intensité jamais
-connue.
+connue.  
 **Voir les [articles](/articles/) pour en apprendre plus.**
